@@ -1,71 +1,108 @@
 # 🏆 ICT Cell Certificate of Appreciation
 
 <p align="center">
-<img src="certificate.jpg" width="650">
+  <img src="./ict-photo.jpg" width="750" alt="ICT Cell Appreciation Ceremony">
 </p>
 
 <p align="center">
-<img src="award-ceremony.jpg" width="650">
+  <img src="./ict-certificate.jpg" width="500" alt="Certificate of Appreciation">
 </p>
 
 ---
 
-## Overview
+## 📖 Overview
 
-Received the **Certificate of Appreciation** from the **ICT Cell, Parul University** in recognition of outstanding service as an **ICT Coordinator**.
+The **Certificate of Appreciation** was awarded by the **Information & Communication Technology (ICT) Cell, Parul University** in recognition of my contributions as an **ICT Coordinator** for the **Parul Institute of Computer Applications (PICA)**.
 
-The award acknowledges contributions toward improving digital teaching practices, supporting faculty members, and facilitating the adoption of university technology platforms.
-
----
-
-## Organization
-
-**ICT Cell**
-
-Parul University
+During this role, I worked closely with faculty members, students, and university administrators to facilitate the adoption of digital teaching technologies and streamline academic processes across the institute.
 
 ---
 
-## Date
+## 🏛 Organization
 
-27 February 2025
-
----
-
-## My Role
-
-ICT Coordinator
+**Parul University**  
+Information & Communication Technology (ICT) Cell  
+Vadodara, Gujarat, India
 
 ---
 
-## Key Responsibilities
+## 👨‍💼 Role
 
-- Assisted faculty members in adopting the PULMS Learning Management System.
-- Guided faculty in creating and managing course content.
-- Conducted technical support and mentoring sessions.
-- Coordinated ICT-related academic activities.
-- Assisted students in resolving technical platform issues.
-- Promoted digital teaching and learning practices across departments.
+**ICT Coordinator**
 
 ---
 
-## Skills Demonstrated
+## 🎯 Major Responsibilities
+
+- Coordinated ICT-related academic initiatives within the institute.
+- Trained faculty members to effectively use the **PULMS (Parul University Learning Management System)**.
+- Assisted faculty in creating and managing complete course structures on PULMS.
+- Guided academic staff in implementing university-prescribed digital teaching practices.
+- Supported students in resolving LMS-related technical issues.
+- Worked with the ICT Cell to improve digital adoption across departments.
+- Assisted during faculty orientation and technology awareness sessions.
+- Helped ensure smooth execution of online academic workflows.
+
+---
+
+## 🚀 Key Contributions
+
+- Successfully trained multiple faculty members on the university LMS.
+- Simplified digital course creation and management processes.
+- Improved faculty confidence in using educational technologies.
+- Acted as the primary ICT support coordinator for both faculty and students.
+- Contributed toward strengthening digital transformation initiatives within the institute.
+
+---
+
+## 🏅 Recognition
+
+This appreciation recognizes my contribution towards
+
+- Academic Technology Enablement
+- Faculty Development
+- Digital Education
+- Learning Management Systems
+- Academic Coordination
+- Institutional Digital Transformation
+
+---
+
+## 🖼 Gallery
+
+| Appreciation Ceremony | Certificate |
+|:---------------------:|:-----------:|
+| <img src="./ict-photo.jpg" width="420"> | <img src="./ict-certificate.jpg" width="320"> |
+
+---
+
+## 💡 Skills Demonstrated
 
 - Academic Leadership
-- Digital Transformation
-- Faculty Development
+- Faculty Mentoring
 - Learning Management Systems (PULMS)
 - Technical Training
-- Coordination
+- Educational Technology
+- Digital Transformation
 - Communication
+- Event Coordination
 - Problem Solving
+- Team Collaboration
 
 ---
 
-## Impact
+## 📅 Timeline
 
-This recognition represents my contribution toward strengthening technology-enabled education by helping both faculty and students effectively utilize institutional digital infrastructure.
+| Item | Details |
+|------|---------|
+| Achievement | ICT Cell Certificate of Appreciation |
+| Organization | Information & Communication Technology Cell |
+| University | Parul University |
+| Position | ICT Coordinator |
+| Department | Parul Institute of Computer Applications |
+| Category | Academic Leadership |
+| Type | Certificate of Appreciation |
 
 ---
 
-> *Empowering educators through technology ultimately enhances the learning experience for every student.*
+> *"Technology transforms education only when educators are empowered to use it effectively."*
