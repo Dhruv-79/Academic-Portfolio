@@ -1,25 +1,38 @@
-# 📄 Publications
+# 📚 Publications
 
-## Purpose
+Welcome to my scholarly publications repository.
 
-This directory documents my scholarly publications, including journal articles, conference papers, accepted manuscripts, and research contributions.
-
-The objective is to maintain a structured archive of my published research and academic outputs.
+This section documents my research contributions in the areas of Artificial Intelligence, Cloud Computing, Cybersecurity, Explainable AI, and Intelligent Systems.
 
 ---
 
-## Contents
+# 📖 Publication Categories
 
-- Published Journal Articles
-- Conference Papers
-- Accepted Papers
-- Under Review Manuscripts
-- DOI Information
-- Publication Links
-- Supporting Resources
+| Category | Count |
+|-----------|-------:|
+| Journal Papers | 0 |
+| Conference Papers | 0 |
+| Book Chapters | 0 |
+| Patents | 3 |
 
 ---
 
-## Status
+# 🏅 Granted Patents
 
-🟢 Active Research Repository
+| Patent | Status |
+|---------|--------|
+| AI-Based Smart Crop Monitoring System | ✅ Granted |
+| Intelligent Multi-Agent Framework for Resource Allocation in Cloud Computing | ✅ Granted |
+| Explainable AI-Based Intrusion Detection System for Cloud Security | ✅ Granted |
+
+---
+
+## 📂 Browse Patents
+
+- 🌱 AI-Based Smart Crop Monitoring System
+- ☁️ Intelligent Multi-Agent Framework for Resource Allocation
+- 🔐 Explainable AI-Based Intrusion Detection System for Cloud Security
+
+---
+
+> Additional research papers, journal articles, conference publications, and book chapters will be added as they are published.
