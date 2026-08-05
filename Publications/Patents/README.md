@@ -2,58 +2,75 @@
 
 Welcome to my **Patents Portfolio**.
 
-This repository documents my granted Intellectual Property (IP) contributions registered with the **Intellectual Property India (Government of India)**. These patents demonstrate my research interests in Artificial Intelligence, Cloud Computing, Smart Agriculture, Digital Assessment Systems, and Emerging Technologies.
+This repository showcases my **granted design patents** registered with the **Intellectual Property Office, Government of India**. These intellectual property contributions reflect my research and innovation in Artificial Intelligence, Healthcare, Smart Agriculture, and Intelligent Digital Systems.
 
 ---
 
-## Patent Portfolio
+# 📖 Patent Portfolio
 
-| Patent | Domain | Status | Year |
-|---------|--------|--------|------|
-| 🌱 Agricultural Crop Monitoring Device | Smart Agriculture, IoT | ✅ Granted | 2025 |
-| ☁️ AI Based Device for Online Assessment | Artificial Intelligence, EdTech | ✅ Granted | 2025 |
-| 🔐 Explainable AI Based Intrusion Detection System for Cloud Security | AI, Cloud Security, Cybersecurity | ✅ Granted | 2025 |
+| Patent | Research Domain | Status | Registration Year |
+|---------|-----------------|--------|-------------------|
+| 🌱 Agricultural Ural Crop Monitoring Device | Smart Agriculture, IoT | ✅ Granted | 2025 |
+| 📝 AI Based Device for Online Assessment | Artificial Intelligence, Educational Technology | ✅ Granted | 2025 |
+| ❤️ Machine Learning Based Heart Disease Detection Device | Artificial Intelligence, Healthcare | ✅ Granted | 2025 |
 
 ---
 
-## Research Areas
+# 🔬 Research Areas
 
 - Artificial Intelligence
-- Explainable AI (XAI)
-- Cloud Computing
-- Cloud Security
-- Cybersecurity
+- Machine Learning
+- Healthcare Analytics
+- Digital Healthcare
 - Smart Agriculture
 - Internet of Things (IoT)
 - Educational Technology
+- Predictive Analytics
 - Intelligent Monitoring Systems
+- Medical Decision Support Systems
 
 ---
 
-## Patent Repository Structure
+# 📂 Repository Structure
 
-```
+```text
 Patents
 │
 ├── README.md
 │
-├── Patent-01-Agricultural-Crop-Monitoring-Device
+├── Agricultural-Ural-Crop-Monitoring-Device
+│   ├── README.md
+│   └── certificate.jpg
 │
-├── Patent-02-AI-Based-Device-for-Online-Assessment
+├── AI-Based-Device-for-Online-Assessment
+│   ├── README.md
+│   └── certificate.jpg
 │
-└── Patent-03-Explainable-AI-Based-Intrusion-Detection-System
+└── Machine-Learning-Based-Heart-Disease-Detection-Device
+    ├── README.md
+    └── certificate.jpg
 ```
 
 ---
 
-## Highlights
+# 🏆 Portfolio Highlights
 
-- ✅ Three Granted Design Patents
-- 🇮🇳 Registered with Intellectual Property India
-- 💡 Innovation-driven research
-- 🎓 Industry and academic relevance
-- 🔬 Multidisciplinary applications
+- 🇮🇳 Three Granted Design Patents registered with the Government of India.
+- 💡 Research contributions in Artificial Intelligence, Healthcare, Smart Agriculture, and Educational Technology.
+- 🔬 Demonstrates interdisciplinary innovation addressing real-world challenges.
+- 🎓 Bridges academic research with practical applications.
+- 📚 Supports ongoing research in AI-enabled intelligent systems.
 
 ---
+
+# 🎯 Research Impact
+
+These patents demonstrate my commitment to developing innovative technology solutions that integrate Artificial Intelligence with practical applications in healthcare, agriculture, and education. They represent collaborative research efforts focused on improving efficiency, decision-making, and technology adoption across multiple domains.
+
+---
+
+**Portfolio Maintained By:**  
+**Prof. Dhruv Shah**  
+Assistant Professor | Researcher | Reviewer | PhD Scholar
 
 **Last Updated:** August 2026
