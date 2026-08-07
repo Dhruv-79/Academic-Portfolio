@@ -58,7 +58,7 @@ This registered design presents an innovative **Agricultural Crop Monitoring Dev
 # Gallery
 
 <p align="center">
-<img src="Certificate.jpg" width="600">
+  <img src="./certificate.jpg" alt="Agricultural Crop Monitoring Device Patent Certificate" width="700">
 </p>
 
 ---
