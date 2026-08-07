@@ -1,9 +1,5 @@
 # 🤖 AI Based Device for Online Assessment
 
-<p align="center">
-<img src="Certificate.jpg" width="700">
-</p>
-
 ---
 
 # Overview
@@ -58,7 +54,7 @@ This registered design introduces an **AI Based Device for Online Assessment**, 
 # Gallery
 
 <p align="center">
-<img src="Certificate.jpg" width="600">
+<img src="certificate.jpg" width="600">
 </p>
 
 ---
