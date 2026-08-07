@@ -1,9 +1,4 @@
 # ❤️ Machine Learning Based Heart Disease Detection Device
-
-<p align="center">
-  <img src="certificate.jpg" alt="Machine Learning Based Heart Disease Detection Device Patent Certificate" width="700"/>
-</p>
-
 ---
 
 # 📖 Overview
