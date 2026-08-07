@@ -1,9 +1,5 @@
 # 🌱 Agricultural Crop Monitoring Device
 
-<p align="center">
-<img src="Certificate.jpg" width="700">
-</p>
-
 ---
 
 # Overview
