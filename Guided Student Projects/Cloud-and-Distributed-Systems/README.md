@@ -3,7 +3,6 @@
 
 # 2. `Cloud-and-Distributed-Systems/README.md`
 
-```markdown
 # ☁️ Cloud & Distributed Systems
 
 This section contains student projects related to **cloud computing, virtualization, distributed systems, scalable applications, and cloud-based technologies** undertaken under my academic guidance.
