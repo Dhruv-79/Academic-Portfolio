@@ -60,6 +60,26 @@ For projects documented in this repository, my contribution may include:
 - Academic evaluation and mentoring
 
 ---
+## 🚀 Future Development
+
+This section of the repository will be continuously updated as new student projects are completed, reviewed, and documented.
+
+Future development will focus on:
+
+* 📌 Adding new student projects across different technology domains
+* 📄 Providing standardized project documentation and `README.md` files
+* 💻 Including source code and implementation resources where appropriate
+* 🖼️ Adding project screenshots, demonstrations, and system interfaces
+* 📊 Documenting project objectives, technologies, methodologies, and outcomes
+* 🔗 Linking projects to their respective GitHub repositories or live demonstrations
+* 🏆 Highlighting projects that demonstrate innovation, research potential, or industry relevance
+* 📚 Organizing projects according to their academic year, technology domain, and application area where required
+* 👨‍🎓 Showcasing notable student achievements resulting from these projects
+* 🔄 Regularly updating the repository as new batches of students complete their academic projects
+
+The repository will gradually evolve into a **structured portfolio of student innovation and project-based learning**, providing a record of the technical work undertaken by students under my mentorship and guidance.
+
+
 
 ## 📋 Project Documentation Standard
 
