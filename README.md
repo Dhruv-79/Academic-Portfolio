@@ -1,99 +1,182 @@
-🎓 Academic Portfolio
+<div align="center">
 
-Welcome to the Academic Portfolio of Prof. Dhruv S. Shah.
+👋 Prof. Dhruv S. Shah
 
-This repository serves as a structured record of my academic journey, teaching contributions, research activities, professional development, scholarly achievements, and continued learning. It provides an organized overview of my work as an educator, researcher, mentor, and technology professional.
+Assistant Professor • Researcher • Technology Educator
 
-👨‍🏫 About Me
+Artificial Intelligence · Cloud Computing · Cybersecurity · High Performance Computing · Data Analytics
 
-Prof. Dhruv S. Shah
+<p>
+  <a href="https://github.com/Dhruv-79">
+    <img src="https://img.shields.io/badge/GitHub-Dhruv--79-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/profdhruvshah/">
+    <img src="https://img.shields.io/badge/LinkedIn-Prof%20Dhruv%20Shah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-Assistant ProfessorUniversity Institute of Computing, Chandigarh University
+</div>
 
-My academic and professional interests lie at the intersection of emerging technologies, computing systems, cybersecurity, and data-driven intelligence.
+🎓 About
 
-🔬 Research & Academic Interests
+I am an Assistant Professor and technology educator with an academic focus on emerging areas of computing, intelligent systems, cloud technologies, and cybersecurity.
 
-🤖 Artificial Intelligence & Machine Learning
+My work combines teaching, research, student mentorship, technical exploration, and continuous professional development. This repository is a curated record of that journey rather than simply a collection of documents.
 
-☁️ Cloud Computing & Cloud Security
+Learn. Research. Teach. Build.
+
+🔬 Areas of Interest
+
+🤖 Artificial Intelligence
+
+☁️ Cloud Computing
+
+Machine Learning • Deep Learning
+
+Cloud Architecture • Cloud Security
+
+Intelligent Systems
+
+Distributed & Virtualized Systems
 
 🔐 Cybersecurity
 
-⚡ High Performance & Distributed Computing
+⚡ High Performance Computing
+
+Network & Cloud Security
+
+Parallel Computing
+
+Secure Intelligent Systems
+
+Distributed Computing
 
 📊 Data Analytics
 
-🧠 Intelligent Computing Systems
+🧑‍💻 Computing Education
 
-📚 Academic Portfolio
+Data-Driven Intelligence
 
-This repository brings together different aspects of my academic and professional work:
+Technology-Enabled Learning
 
-Section
+Analytical & Predictive Methods
 
-Description
+Student Project Mentorship
 
-🏆 Awards & Honors
+📂 Academic Portfolio
 
-Academic recognitions, awards, appreciations, and professional achievements
+This repository is organized to document different dimensions of my academic and professional work.
 
-🎖 Professional Development
+🏆 Recognition & Development
 
-Certifications, training programs, and skill-development activities
+Awards & Honors — Academic awards, recognitions, appreciations, and achievements
 
-📚 Faculty Development Programs
+Professional Development — Certifications, courses, training, and skill development
 
-FDPs, training programs, and academic capacity-building initiatives
+Faculty Development Programs — FDPs, workshops, and academic training
 
-📄 Publications
+📚 Research & Scholarly Work
 
-Research papers, journal articles, conference publications, and scholarly contributions
+Publications — Research papers, journal articles, and conference contributions
 
-📖 Book Chapters
+Book Chapters — Published and accepted scholarly chapters
 
-Published and accepted book chapters and related scholarly contributions
+Reviewer Activities — Peer-review and academic reviewing contributions
 
-📝 Reviewer Activities
+Conferences & Workshops — Conferences, seminars, workshops, presentations, and academic events
 
-Peer-reviewing activities for journals, conferences, and academic publications
+👨‍🎓 Academic Mentorship
 
-🎤 Conferences & Workshops
+Guided Student Projects — Selected projects completed by students under academic and technical guidance
 
-Conferences, seminars, workshops, invited sessions, and academic events
+📎 Professional Archive
 
-📂 Academic CV
+Academic CV — Current academic and professional profile
 
-Current academic and professional curriculum vitae
+Gallery — Selected academic events, presentations, activities, and professional engagements
 
-🖼 Gallery
+🧭 Repository Structure
 
-Selected photographs from academic events, activities, presentations, and professional engagements
+Academic-Portfolio/
+│
+├── 📂 Academic-CV/
+├── 📂 Awards-and-Honors/
+├── 📂 Book-Chapters/
+├── 📂 Conferences-and-Workshops/
+├── 📂 Faculty-Development-Programs/
+├── 📂 Gallery/
+├── 📂 Guided-Student-Projects/
+├── 📂 Professional-Development/
+├── 📂 Publications/
+├── 📂 Reviewer-Activities/
+│
+└── 📄 README.md
 
-🎯 Purpose of This Repository
+👨‍🎓 Student Project Mentorship
 
-The portfolio is designed to:
+A dedicated part of this portfolio documents selected student projects developed under my guidance.
 
-Maintain a centralized academic record of professional activities.
+The projects demonstrate the application of academic concepts to practical problems across areas such as:
 
-Document continuous teaching, research, and professional development.
+Software & Web Applications · Cloud & Distributed Systems · AI & Machine Learning · Cybersecurity · Databases & Information Systems
 
-Showcase scholarly contributions and academic achievements.
+The collection will continue to grow as new student projects are completed and documented.
 
-Provide an organized record of certifications, awards, publications, and events.
+📈 Academic Journey
 
-Support transparency and accessibility of my professional journey.
+My academic journey is built around three interconnected activities:
 
-Create a continuously evolving archive of my work in computing and emerging technologies.
+        TEACH
+          │
+          ▼
+     Share Knowledge
+          │
+          ▼
+        RESEARCH
+          │
+          ▼
+   Explore New Ideas
+          │
+          ▼
+         BUILD
+          │
+          ▼
+ Create Practical Solutions
+          │
+          └──────────────► TEACH
+
+This cycle reflects my approach to academic growth: learning through research, translating knowledge into teaching, and connecting theory with practical implementation.
 
 🌱 Continuous Development
 
-Academic growth is an ongoing process. This repository will continue to evolve as I contribute to teaching, research, student mentorship, publications, professional development, and emerging areas of computing.
+This portfolio is actively maintained and will evolve with new:
 
-Learning, researching, teaching, and building — one contribution at a time.
+Research publications and scholarly contributions
 
-📌 Repository Status
+Book chapters and academic writing
 
-Status: 🚀 Actively Maintained
+Certifications and professional development
 
-This portfolio is continuously updated to reflect new academic achievements, research contributions, professional activities, certifications, publications, and scholarly engagements.
+Faculty development programs
+
+Conferences, workshops, and presentations
+
+Awards and recognitions
+
+Student projects and mentorship activities
+
+Academic resources and technology initiatives
+
+📌 Repository Philosophy
+
+An academic portfolio should show progression, not just possession.
+
+Rather than functioning as a static archive, this repository is intended to demonstrate the progression of my work across teaching, research, mentorship, technology, and professional development.
+
+<div align="center">
+
+🚀 Exploring Technology. Advancing Knowledge. Mentoring the Next Generation.
+
+Prof. Dhruv S. Shah
+
+</div>
