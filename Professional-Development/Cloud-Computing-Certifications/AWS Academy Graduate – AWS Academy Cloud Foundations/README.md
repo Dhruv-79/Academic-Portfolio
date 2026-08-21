@@ -1,5 +1,5 @@
 📜 AWS Academy Graduate – AWS Academy Cloud Foundations
-📌 Certificate Details
+<br>📌 Certificate Details
 Field	Details
 Certificate / Credential	AWS Academy Graduate – AWS Academy Cloud Foundations
 Issuing Organisation	Amazon Web Services Training and Certification
@@ -8,7 +8,8 @@ Learning Type	AWS Academy Learning Credential
 Platform / Provider	AWS Academy
 Certificate Status	Completed
 Certificate File	AWS Academy Graduate Dhruv Shah.pdf
-📚 Subject / Learning Area
+
+<br>📚 Subject / Learning Area
 
 The credential represents completion of the AWS Academy Cloud Foundations course. The course provides foundational exposure to cloud computing concepts and the AWS cloud environment.
 
@@ -19,7 +20,7 @@ AWS Cloud
 AWS Core Services
 AWS Pricing
 AWS Support
-🎯 Key Learning
+<br>🎯 Key Learning
 
 Through this learning programme, I developed a foundational understanding of:
 
