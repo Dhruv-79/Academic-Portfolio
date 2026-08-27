@@ -14,9 +14,10 @@ The documentation and proof of completion stored here demonstrate technical expe
 
 ---
 
-## Directory Structure
+## 📂 Directory Structure
 
-| Software-Development-Certifications/ |    |
-|---|---|
-| README.md    # Folder Overview    |    |
-| Certificates    # Files and README.md about the certificate |
+```text
+Software Development/
+│
+└── README.md             # Folder Overview
+└── Certificates          # Files and README.md about the certificate
