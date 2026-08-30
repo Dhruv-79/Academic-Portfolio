@@ -21,4 +21,4 @@ These certifications demonstrate my commitment to continuous learning and stayin
 
 ## Status
 
-🟢 Certificates are being uploaded
+🟢 Certificates are being uploaded regularly here
