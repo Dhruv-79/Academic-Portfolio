@@ -35,6 +35,7 @@ Research Areas:
 - 🎤 Conferences & Workshops
 - 📂 Academic CV
 - 🖼 Gallery
+- 👨‍🏫 Teaching and Lectures
 
 ---
 
